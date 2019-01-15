@@ -1,0 +1,7 @@
+  Jesse was unfortunately labeled as a pirate by a the RIAA for simply trying to create a search engine. He wanted to create a tool that would assist other students
+in finding research articles, documents, and other files that students would find useful. At the same time, he was unaware of students using this network to post pirated
+music for other students. While these students deserved some form of punishment, Jesse was simply targeted for creating a network that was used for piracy. What the 
+book intends to point out is how unfairly he was targeted. Jesse's act of kindness got him in immense trouble that could have ruined his life. Since there was no system
+to protect Jesse from people using his software incorrectly, he was put forth as a ringleader. This becomes one of the risks of open source development, if a user
+uses the product improperly or illegally, then who is held at fault. For this reason, the author used Jesse's case as a way to show that a developer should not be held
+at fault for the mistakes of their users.
