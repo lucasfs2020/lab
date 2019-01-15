@@ -1,0 +1,4 @@
+Providing links that will hopefully push the user towards a solution.
+
+Carefully explain the solutions so that the person asking the question has a 
+full explanation and will not need to ask further questions.
