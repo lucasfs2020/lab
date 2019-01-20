@@ -3,7 +3,6 @@ Golf App
 	I want to design an app for golfers that aims at aiding them help predict their score and focus upon what to work on. The app would allow golfers to put in
 a hole on a golf course, with relative shape and distance, and compare this with other similar scores. As time went on, it would be able to carefully predict
 scores on every type of hole. This would tell you what your weakest holes are and where to practice. Not only this, but it could also serve to have an instructional
-function. It would pull off basic drills, practices, and stretches to do before each round and in general to improve your game. It could also serve to assist instructors
-by helping give their students drills to practice. In order to do this, I would have users use a graphical interface to build a hole, following basic views. From there,
-the users would input their scores and handicaps. From here, based off each type of hole, it would allow users to see their average score, telling them that they
-should either try a new strategy or continue with their current one.
+function, by allowing instructors to put drills into a database for users to practice with. For drills, the app would have a database that users can input drills if they have a certain qualification.
+As for the golf maps, I can think of two possiblities. If there is a free use database of golf maps, the app would build it from this database and allow users to choose a course.
+Otherwise, the app would use a graphical interface that allowed users to build a hole, categorize this hole, and input their own scores. It would then keep track of all the scores, and allow the user to see predicted scores.
