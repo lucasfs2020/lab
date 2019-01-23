@@ -1,3 +1,10 @@
-Photo ![gitk_--all](gitk_--all.PNG)
-Photo ![git_k](gitk.PNG)
-Photo ![git_log](git_log.PNG)
+# Part 1
+gitk --all ![gitk_--all](gitk_--all.PNG)
+gitk ![git_k](gitk.PNG)
+gitlog ![git_log](git_log.PNG)
+
+# Part 2
+branching 1 question ![branching1](branching1.PNG)
+branching 2 questoin ![photo](branching2.PNG)
+branching 3 question ![photo](branching3.PNG)
+branching 4 question ![photo](branching4.PNG)
