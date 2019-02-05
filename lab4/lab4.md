@@ -25,6 +25,9 @@ Question 6:
 We decided it would be fun to create an open source game. We would create the base concept, and provide a little guidance, and then let the
 users do what they wished. We decided it would be best to use a GNU GPL.
 
+Question 8:
+https://github.com/lucasfs2020/test_license/tree/master
+
 Do I agree with this claim Gopher:
 	Given the information presented, I do agree with this claim. Part of a project being open source is that it must be open to the
 large hacking community, so that developers are allowed to make their own decisions on a tool they may use. Gopher not only 
