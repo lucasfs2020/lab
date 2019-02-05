@@ -20,6 +20,11 @@ abilities, which means that the software can be passed along without the origina
 to specific people. However, the biggest change is that certain material must be preserved. This allows protection for specific 
 parts of a project for a company.
 
+Question 6:
+
+We decided it would be fun to create an open source game. We would create the base concept, and provide a little guidance, and then let the
+users do what they wished. We decided it would be best to use a GNU GPL.
+
 Do I agree with this claim Gopher:
 	Given the information presented, I do agree with this claim. Part of a project being open source is that it must be open to the
 large hacking community, so that developers are allowed to make their own decisions on a tool they may use. Gopher not only 
