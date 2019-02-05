@@ -30,5 +30,5 @@ Website | License Present | License
 https://github.com/cpybus/EMPACplus | Yes | Apache License 2.0
 https://github.com/adamalawrence/blockzeus-desktop | No | 
 https://github.com/mwdewey/pandamonium | No | 
-https://github.com/Maximus-/macbook12-spi-driver | Yes | GNU General Public License v2.9
+https://github.com/Maximus-/macbook12-spi-driver | Yes | GNU General Public License v2.0
 https://www.mailpile.is/ | Yes | Dual Licensing, AGPL v3, Apache 2.0
