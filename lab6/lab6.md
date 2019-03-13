@@ -18,6 +18,6 @@ link to preced/follow code [link](https://github.com/lucasfs2020/lab/blob/master
 
 precede/follow output
 Photo ![output](follow_and_precede_output_1.PNG)
-Photo ![output](follow_and_precede_ouptut_2.PNG)
+Photo ![output](follow_and_precede_output_2.PNG)
 Photo ![output](follow_and_precede_output_3.PNG)
 Photo ![output](follow_and_precede_output_4.PNG)
