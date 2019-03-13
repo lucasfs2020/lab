@@ -89,10 +89,8 @@ if __name__ == '__main__':
           % (nx.number_of_nodes(G), nx.number_of_edges(G)))
     print("%d connected components" % nx.number_connected_components(G))
 
-    for (source, target) in [('chaos', 'order'),
-                             ('nodes', 'graph'),
-                             ('moron', 'smart'),
-                             ('pound', 'marks')]:
+    for (source, target) in [('cold', 'warm'),
+                             ('love', 'hate')]:
         print("Shortest path between %s and %s is" % (source, target))
         try:
             sp = nx.shortest_path(G, source, target)
