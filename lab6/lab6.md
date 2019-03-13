@@ -1,5 +1,5 @@
 Five letter pair results
-Photo ![output](lab6_part.PNG)
+Photo ![output](lab6_part1.PNG)
 
 four letter pair code
 link to four letter code [link](https://github.com/lucasfs2020/lab/blob/master/lab6/lab6_4_letter.py)
