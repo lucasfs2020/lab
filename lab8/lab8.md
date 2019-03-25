@@ -11,4 +11,4 @@ Upon added the new test, it failed and all others ran succesfully ![photo](lab8_
 I met with Professor Turner to discuss Monday and I have been receiving an odd heap error, so despite my test being corrected, there is still an error. This is just clarification for the late submission
 
 # Part 5
-Here is my groups project ![photo](lab8_check5.PNG)
+Here is my groups project ![photo](lab8_check5.png)
